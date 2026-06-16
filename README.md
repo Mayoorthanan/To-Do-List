@@ -29,13 +29,19 @@ Each task includes:
 
 The application uses React's `useState` hook to manage the task list and input field state.
 
+
+## Repository
+
+[View the Repository](https://github.com/Mayoorthanan/To-Do-List)
+
 ## Installation
 
-1. Clone the repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/Mayoorthanan/To-Do-List.git
 ```
+
 
 2. Navigate to the project folder
 
