@@ -90,7 +90,7 @@ function Todolist(){
             
             )}
         </ol>
-
+            <footer>&copy; 2026 S. Mayoorthanan</footer>
 
     </div>);
 }
